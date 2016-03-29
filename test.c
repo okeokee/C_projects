@@ -8,7 +8,7 @@ int main()
 	for(i=0; i<10; i++)
 	{
 		j = i+i^2;
-		printf (%d\n, j);
+		printf ("%d\n", j);
 		
 	}
 
